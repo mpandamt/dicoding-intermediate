@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MyStoryAppDicoding</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title_login_page">Masukkan akun mu</string>
+    <string name="name">Nama</string>
+    <string name="logout">Keluar</string>
+    <string name="input_password">Masukkan Password</string>
+    <string name="input_email">Masukkan Email</string>
+    <string name="invalid_email">Email tidak valid</string>
+    <string name="password_should_more_than_six_char">Password kurang dari 6 karakter</string>
+    <string name="register">Daftar</string>
+    <string name="input_name">Masukkan nama kamu</string>
+    <string name="story_image">storyImage</string>
+    <string name="add_new_story">Tambahkan cerita</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="label_description">Deskripsi</string>
+    <string name="loading">Mohon tunggu</string>
+    <string name="image">gambar</string>
+    <string name="action_settings">Setting</string>
+    <string name="failed_take_picture">Gagal mengambil gambar.</string>
+    <string name="failed_to_open_camera">Gagal memunculkan kamera.</string>
+    <string name="fill_description_and_photo">Silakan masukkan berkas gambar dan deskripsi terlebih dahulu</string>
+    <string name="action_map">Peta</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+</resources>

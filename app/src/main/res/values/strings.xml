@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">MyStoryAppDicoding</string>
+    <string name="signup">Register</string>
+    <string name="login">Login</string>
+    <string name="title_signup_page">Please fill this form</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title_login_page">Login to your account</string>
+    <string name="name">name</string>
+    <string name="logout">Logout</string>
+    <string name="input_password">Fill your Password</string>
+    <string name="input_email">Fill your Email</string>
+    <string name="invalid_email">Email invalid</string>
+    <string name="password_should_more_than_six_char">Password length should more than 6 or same character</string>
+    <string name="register">Register</string>
+    <string name="input_name">Your name</string>
+    <string name="story_image">storyImage</string>
+    <string name="add_new_story">Add story</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="label_description">Description</string>
+    <string name="loading">Loading</string>
+    <string name="image">Image</string>
+    <string name="action_settings">Setting</string>
+    <string name="failed_take_picture">failed to take picture</string>
+    <string name="failed_to_open_camera">Failed to open camera</string>
+    <string name="fill_description_and_photo">please fill description and choose photo</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="action_map">Maps</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+</resources>
